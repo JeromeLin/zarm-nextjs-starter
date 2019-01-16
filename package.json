@@ -1,5 +1,5 @@
 {
-  "name": "zarm-nextjs-stater",
+  "name": "zarm-nextjs-starter",
   "scripts": {
     "dev": "next",
     "build": "next build",
